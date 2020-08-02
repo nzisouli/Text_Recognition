@@ -1,0 +1,10 @@
+The following images were used from the training set of Task 2: 
+Cropped Word Script identification, from ICDAR 2019 Robust 
+Reading Challenge on Multi-lingual scene text detection and 
+recognition.
+
+word_8113.jpg - word_19865.jpg
+word_25413.jpg - word_33908.jpg
+word_53866.jpg - word_80266.jpg
+
+Link to download the images: https://rrc.cvc.uab.es/?ch=15&com=downloads
